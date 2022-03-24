@@ -45,7 +45,7 @@ header nav ul li {
 }
 
 /*
-Sets background image and parameters for it
+Sets banner img and parameters for it
 */
 .hero {
     height: 800px;
@@ -162,7 +162,7 @@ aside article img {
 }
 
 /*
-Stying footer 
+Styling footer 
 */
 footer {
     padding: 30px;
