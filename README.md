@@ -1,5 +1,7 @@
 First Homework assignment
 
+![Employee data](/assets/images/Website-Image.jpg?raw=true "Website Image")
+
 This is a static HTML page with CSS styling
 This homework assignment focused on refactoring an existing code base to be more accessible to read and work on
 The assignment criteria are as follows:
